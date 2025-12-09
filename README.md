@@ -101,20 +101,31 @@ Conscientiousness, intentionality, and compassion
 
 ## Things I like
 Quiet competence–deep knowledge without ego
+
 Getting deep into a good programming problem
+
 Knowing my team well
+
 Good communication, engaging speakers
+
 Star Wars (sometimes)
+
 ## Things I don’t like
 Forcing an idea that doesn’t have value
+
 Empty theatrics & meaningless buzzwords
+
 Fearmongering & intimidation
+
 Star Wars (sometimes)
 
 ## Motivators
 Creativity
+
 Well-communicated vision and goals
+
 Lively discussion
+
 Challenges of logic and strategy
 
 ## What I'm up to
