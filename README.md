@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm an Information Systems student at BYU graduating with a bachelor's and master's degree in April 2026 and looking for the next step on my journey of tech competence and creative innovation.
 I wholeheartedly beleive this popular internet proverb: “Everything is computer. ” That’s why I became a programmer: deep technological
 competence is essential to understanding the world and being a capable, agentic citizen in the 21st century.
-Below you can learn a bit more about me. Read my resume at [zachbagley.net.resume](https://zachbagley.net/resume)
+Below you can learn a bit more about me. Read my resume at [zachbagley.net/resume](https://zachbagley.net/resume)
 
 
 # More about me
