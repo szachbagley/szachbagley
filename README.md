@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 I'm an Information Systems student at BYU graduating with a bachelor's and master's degree in April 2026 and looking for the next step on my journey of tech competence and creative innovation.
-I won’t speak on my opinion of Donald Trump, but I do think he hit the nail on the head when he said, “Everything is computers. ” That’s why I became a programmer: deep technological
+I won’t speak on my opinion of Donald Trump, but I do think he hit the nail on the head when he said, “Everything is computer. ” That’s why I became a programmer: deep technological
 competence is essential to understanding the world and being a capable, agentic citizen in the 21st century.
 Below you can find my resume and a bit more about me.
 
