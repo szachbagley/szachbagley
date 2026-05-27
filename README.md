@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an Information Systems student at BYU graduating with a bachelor's and master's degree in April 2026 and looking for the next step on my journey of tech competence and creative innovation.
+I'm a software engineer recently graduated from BYU's Master of Information Systems Management program. I like building cool things quickly with thoughtfully built and meticulously maintained AI-accellerated workflows.  I especially like building things related to my interests: movies, Star Wars, history, and AI-native tech.
+
 I wholeheartedly beleive this popular internet proverb: “Everything is computer. ” That’s why I became a programmer: deep technological
 competence is essential to understanding the world and being a capable, agentic citizen in the 21st century.
 Below you can learn a bit more about me. Read my resume at [zachbagley.net/resume](https://zachbagley.net/resume)
